@@ -1,2 +1,2 @@
-OLa Sou o GAbriel
+Ola Sou o GAbriel
 Sou estudante do alura
